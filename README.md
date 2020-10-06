@@ -16,4 +16,3 @@ Complete the following exercises in the `loops` folder:
   Let string = “donuts”
   Expected output => dZnZtZ
   ```
-
